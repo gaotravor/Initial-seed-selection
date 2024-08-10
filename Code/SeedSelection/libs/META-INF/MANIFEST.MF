@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: functionaljava-4.2.jar commons-exec-1.3.jar ejml-zdense-0.39
+ .jar plexus-utils-3.2.1.jar guava-18.0.jar FastInfoset-1.2.15.jar seria
+ lizer-2.7.2.jar org.eclipse.core.jobs-3.11.0.jar xom-1.3.7.jar asm-anal
+ ysis-7.1.jar j2v8_win32_x86_64-4.6.0.jar jaxb-api-2.4.0-b180830.0359.ja
+ r txw2-2.4.0-b180830.0438.jar ejml-ddense-0.39.jar nashorn-promise-0.1.
+ 1.jar decompiler-procyon-5.1.4.Final.jar org.eclipse.core.expressions-3
+ .9.300.jar asm-commons-7.1.jar spoon-core-9.2.0-beta-1.jar stanford-cor
+ enlp-4.4.0.jar protobuf-java-3.11.4.jar commons-lang3-3.3.1.jar graphvi
+ z-java-0.16.0.jar jtar-2.3.jar jsap-2.1.jar org.eclipse.equinox.prefere
+ nces-3.11.0.jar lucene-analyzers-common-7.5.0.jar xmlpull-1.1.3.4d_b4_m
+ in.jar javaparser-core-3.22.0.jar java_cup-0.9.2.jar maven-model-3.8.2.
+ jar procyon-compilertools-0.5.33.jar org.eclipse.osgi-3.19.0.jar jollyd
+ ay-0.4.9.jar jaxb-impl-2.4.0-b180830.0438.jar jaxb-runtime-2.4.0-b18083
+ 0.0438.jar javax.json-1.0.4.jar heros-1.2.0.jar commons-collections4-4.
+ 1.jar soot-4.1.0.jar stax-ex-1.8.jar jaxb-core-2.3.0.1.jar istack-commo
+ ns-runtime-3.0.7.jar org.osgi.service.prefs-1.1.2.jar javax.inject-1.ja
+ r org.eclipse.equinox.app-1.7.0.jar lucene-sandbox-7.5.0.jar windup-uti
+ ls-5.1.4.Final-forge-addon.jar ejml-cdense-0.39.jar ejml-fsparse-0.39.j
+ ar dexlib2-2.3.4.jar viz.js-for-graphviz-java-2.1.2.jar commons-io-2.11
+ .0.jar jsr305-3.0.2.jar jul-to-slf4j-1.7.30.jar decompiler-api-5.1.4.Fi
+ nal-forge-addon.jar org.eclipse.equinox.common-3.15.0.jar asm-util-7.1.
+ jar commons-compress-1.21.jar lucene-queries-7.5.0.jar javax.activation
+ -api-1.2.0.jar cplex.jar org.eclipse.core.runtime-3.22.0.jar maven-shar
+ ed-utils-3.3.3.jar polyglot-2006.jar lucene-queryparser-7.5.0.jar lucen
+ e-core-8.10.1.jar osgi.annotation-8.0.1.jar joda-time-2.10.5.jar org.ec
+ lipse.core.filesystem-1.10.300.jar slf4j-api-1.7.12.jar xml-apis-1.3.03
+ .jar axml-2.0.0.jar jackson-core-2.12.4.jar hamcrest-core-1.3.jar jacks
+ on-databind-2.12.4.jar ejml-core-0.39.jar ejml-simple-0.39.jar jackson-
+ annotations-2.12.4.jar jcl-over-slf4j-1.7.30.jar asm-tree-7.1.jar Apple
+ JavaExtensions-1.4.jar org.eclipse.core.resources-3.15.0.jar org.eclips
+ e.core.contenttype-3.7.1000.jar xalan-2.7.2.jar org.eclipse.jdt.core-3.
+ 26.0.jar stanford-corenlp-4.2.2-models.jar jasmin-3.0.2.jar ejml-fdense
+ -0.39.jar commons-math3-3.6.1.jar junit-4.13.1.jar jd-core-1.1.3.jar or
+ g.eclipse.equinox.registry-3.12.0.jar svgSalamander-1.1.3.jar xercesImp
+ l-2.8.0.jar maven-invoker-3.1.0.jar asm-7.1.jar procyon-core-0.5.33.jar
+  javax.annotation-api-1.3.2.jar javax.servlet-api-3.0.1.jar ejml-dspars
+ e-0.39.jar
+

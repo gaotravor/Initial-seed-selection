@@ -1,0 +1,7 @@
+CISSM_80.txt
+CISSP_80.txt
+HotSet_80.txt
+FISSAST_5.txt
+FISSAST_65.txt
+FISSAST_80.txt
+FISSAST_95.txt
